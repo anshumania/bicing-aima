@@ -1,0 +1,1 @@
+This project utilizes the aima library to solve a local search problem
